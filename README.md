@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyashre</h1>
+<h1 align="center">Hi 👋, I'm Shreyash re</h1>
 <h3 align="center">I Am Passionate ENTC Engineer</h3>
 
 - 🌱 I’m currently learning **Entc Engineering DYPCET**
